@@ -130,12 +130,13 @@ C)Listado de las 50 palabras que más se repiten
         print(f"{palabra}: {frecuencia}")
 
 
-###Resultados
-Cantidad de Vvocales en el archivo: 1597835
-
+### Resultados
+### A)
+Cantidad de vocales en el archivo: 1597835
+### B)
 Cantidad de consonantes en el archivo: 2612121
-
-Lista de 50 palabras que mas se repiten en el archivo
+### C)
+Lista de 50 palabras que mas se repiten en el archivo:
 
 from: 21720
 
